@@ -20,7 +20,7 @@ The client also integrates with Microsoft's Active Directory for access control,
 
 Another crucial aspect of the project is customizing MPV shortcuts by editing the input.conf file. Default shortcuts are disabled, allowing only essential shortcuts to function.
 
-## Final Conclusions
+## Final Thoughts
 This project was a significant challenge over four months. I worked independently, with occasional support from my team when needed. Developing in Python was initially unfamiliar but proved rewarding. I successfully implemented this application based on a superior's idea, enhancing my skills as a software engineer, problem solver, and self-starter.
 
 Here's an image of the application with an MPV instance open:
