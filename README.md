@@ -2,12 +2,12 @@
 This desktop application was developed by me from January to April 2024 during my internship at BTG Pactual.
 
 ## Description and motivation
-BTG Media Hub allows all BTG collaborators to stream and listen to channels available on office TVs directly from their laptops. Many users expressed a desire to hear broadcasts, not just watch them. This app resolves that issue, making it simple for everyone to access their preferred content from their own laptops.
+BTG Media Hub allows all BTG collaborators to watch and listen to channels available on office TVs directly from their laptops. Many users expressed a desire to hear broadcasts, not just watch them. This app resolves that issue, making it simple for everyone to access their preferred content from their own laptops.
 
 ![image](https://github.com/Henrique-Assme/BTG-Media-Hub/assets/69920692/10c91383-697d-48be-9078-4c99b8089397)
 
 ## How It Works
-Using the application is straightforward—simply click on the image of the desired channel, and the respective broadcast will open using the MPV player. The images refresh periodically to reflect the current stream. The sidebar contains two buttons: "Home" refreshes all images to the latest available, and "Controls" displays shortcuts for controlling the broadcast via MPV.
+Using the application is straightforward — simply click on the image of the desired channel, and the respective broadcast will open using the MPV player. The images refresh periodically to reflect the current stream. The sidebar contains two buttons: "Home" refreshes all images to the latest available, and "Controls" displays shortcuts for controlling the broadcast via MPV.
 
 ![image](https://github.com/Henrique-Assme/BTG-Media-Hub/assets/69920692/22180f80-31ed-4fc3-a62d-a93db78c42fb)
 
